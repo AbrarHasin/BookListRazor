@@ -35,4 +35,4 @@ D:\Git Repos\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.d
 D:\Git Repos\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.pdb
 D:\Git Repos\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.genruntimeconfig.cache
 D:\Git Repos\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.csproj.CopyComplete
-D:\Git Repos\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\Pranto\Privacy.cshtml.g.cs
+D:\Git Repos\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
